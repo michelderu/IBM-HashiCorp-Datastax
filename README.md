@@ -1,5 +1,7 @@
 # Modern Data Infrastructure with Astra DB through IaC
 
+Migrating from self-managed Apache Cassandra to **Astra DB**, a cloud-native database-as-a-service by DataStax, unlocks significant business value—especially when paired with **Terraform** for Infrastructure as Code (IaC). The IBM-HashiCorp-Datastax integration demonstrates how organizations can streamline operations, reduce overhead, and accelerate innovation by automating the provisioning and management of Astra DB resources. This approach eliminates the complexity of manual cluster maintenance, enhances scalability and resilience, and ensures consistent, repeatable deployments across environments. By leveraging Terraform, teams gain full control over infrastructure lifecycle management, enabling faster time-to-market and improved governance—all while benefiting from Astra DB’s enterprise-grade security, global availability, and seamless integration with modern cloud-native architectures.
+
 This repository contains examples to:
 1. Set up and manage an Astra Database by the use of Terraform (this [README.md](./README.md))
 2. Manage Capacity Groups and their databases (see [README-scaling.md](./README-scaling.md))
